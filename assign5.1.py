@@ -24,7 +24,5 @@ while True:
     elif num < snum:
         snum = num   
 
-
-
 print("Maximum is",lnum)
 print("Minimum is",snum)
